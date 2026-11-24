@@ -1,0 +1,15 @@
+{
+  "static_checks": {
+    "no_select_star": true,
+    "no_placeholders": true,
+    "method_names": true,
+    "three_selects_checked": true,
+    "six_unit_tests": true,
+    "guarded_fae": true,
+    "sales_area_authority": true,
+    "order_type_authority": true
+  },
+  "python_formula_cases_passed": 6,
+  "abap_compilation": "NOT RUN",
+  "abap_unit": "NOT RUN"
+}
